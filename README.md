@@ -1,4 +1,4 @@
-# hacktober_23
+# HacktoberFest 2023 🎉
 repository containing any genuine code, to learn open source and participate in HactoberFest!!!
 
 How to contribute:

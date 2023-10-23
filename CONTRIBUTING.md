@@ -6,7 +6,7 @@
 4. Create a pull request
 5. Wait for your pull request to be merged
 
-
 # Contributors
 
-1. Saksham Bhugra
+1. Sambhav Seth
+2. Saksham Bhugra 

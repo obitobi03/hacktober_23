@@ -5,3 +5,8 @@
 3. Commit changes and give it title as Added <Your Name>
 4. Create a pull request
 5. Wait for your pull request to be merged
+
+
+# Contributors
+
+1. Saksham Bhugra

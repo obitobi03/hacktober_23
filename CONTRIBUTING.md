@@ -15,3 +15,4 @@
 4. Vidhi Jain
 5. Shreya Choudhary
 6. Rachit Rai
+7. Shivam Prajapati

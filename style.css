@@ -22,6 +22,7 @@ body{
     flex-direction: row;
     height: 80vh;
     width:60vw;
+    border: solid rgb(15, 77, 135) 1px;
 }
 
 .left{
@@ -86,14 +87,14 @@ input::placeholder{
 
 .left h1{
     font-weight: 20px;
-    color:aliceblue;
+    color:rgb(6, 74, 133);
     font-size: 50px;
     margin-bottom: 15px;
-    text-shadow:5px 5px grey;
+    text-shadow:5px 5px rgb(131, 204, 253);
 }
 
 .right h1{
-    color:aliceblue;
+    color:rgb(217, 232, 246);
     font-weight: lighter;
 }
 
@@ -115,7 +116,7 @@ input::placeholder{
 }
 
 .learnmore{
-    background: aliceblue;
+    background: rgb(227, 238, 248);
     color:#014A83;
     border-radius: 15px;
     cursor:pointer;
@@ -134,7 +135,7 @@ input::placeholder{
 
 .TC{
     font-weight: lighter;
-    color: white;
+    color: rgb(253, 253, 253);
 }
 
 input[type="checkbox"]{
@@ -153,7 +154,7 @@ input[type="checkbox"]{
 }
 
 .left p{
-    color: aliceblue;
+    color: rgb(27, 84, 134);
 }
 
 .right input{
